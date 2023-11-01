@@ -65,7 +65,7 @@
             label = "Nav";
             bindings = <
                 &kp ESC    &trans     &trans      &trans          &trans       &trans           &trans         &trans      &trans     &kp PSCRN
-                &trans     &trans     &trans      &trans          &trans       &kp LARW         &kp DARW       &kp UARW    &kp RARW   &kp PIPE       
+                &trans     &trans     &trans      &trans          &trans       &kp LARW         &kp DARW       &kp UARW    &kp RARW   &kp PIPE
                 &trans     &trans     &trans      &trans          &trans       &kp HOME         &kp PG_D       &kp PG_UP   &kp END    &trans
                                                   &trans          &trans       &trans           &trans
             >;
